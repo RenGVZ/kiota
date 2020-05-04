@@ -397,7 +397,7 @@ property = Property.new(
       cafe_nearby: true,
       bar_nearby: false,
       size: 45,
-      layout: "1LDK",
+      layout: "2LDK",
       location: "Shibuya",
       user: User.create(email: Faker::Internet.email, password: "123456"),
       deposit: 115000,
