@@ -6,4 +6,4 @@ Once they have selected their favorites, the user can then get into contact with
 
 kiota uses many technologies, mainly Ruby on Rails but also Javascript, Active Record database management, Bootstrap and CSS. Designed primarily for mobile applications.
 
-Find kiota here: kiota.xyz
+Find kiota here: http://www.kiota.xyz
