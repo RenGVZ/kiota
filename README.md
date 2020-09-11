@@ -10,9 +10,25 @@ Home Page
 
 ![home page](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599200247/kiota1_ocshdq.jpg)
 
-Properties
+
+
+Intelligent Questionaire
+
+![questionaire](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599804253/IMG_9004_fdtu1e.jpg)
+
+
+
+Chosen Properties
 
 ![property](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599274484/kiota4_pvmd38.jpg)
+
+
+
+Property Information
+
+![propinfo](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599804256/IMG_9005_swsd5z.jpg)
+
+
 
 
 Reservations
