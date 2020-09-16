@@ -28,14 +28,14 @@ Chosen properties that Kiota thinks you will love.
 
 
 
-Only the most relevant information about each apartment/mansion is displayed. Also, Kiota let's you know if it has any special interest to you (based on your answers to the Intelligent Questionaire.
+Only the most relevant information about each apartment/mansion is displayed. Also, Kiota let's you know if it has any special interest to you based on your answers to the Intelligent Questionaire.
 
 ![propinfo](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599804256/IMG_9005_swsd5z.jpg)
 
 
 
 
-Make a reservation with the property owner or real estate agent in one simple click! With Kiota, 5 minutes is all you need to find your dream home.
+Schedule a viewing with the property owner or real estate agent in one simple click! With Kiota, 5 minutes is all you need to find your dream home.
 
 ![reservations](https://res.cloudinary.com/dxlvehbgp/image/upload/c_scale,h_367,q_100/v1599274484/kiota6_i2yuvg.jpg)
 
